@@ -1,5 +1,10 @@
 # JSON RPC 2.0 jQuery Plugin
 
+[![Build Status][travis-ci-image]][travis-ci-url]
+[![Dependency Status][deps-badge]][deps]
+[![devDependency Status][dev-deps-badge]][dev-deps]
+[![peerDependency Status][peer-deps-badge]][peer-deps]
+
 A [JSON RPC 2.0](http://groups.google.com/group/json-rpc/web/json-rpc-2-0) compatible client library and jQuery (1.4, 1.5, and 1.6 compatible) plugin.
 
 ## First, a quick compatibility note
@@ -90,3 +95,16 @@ Inspiration for this plugin came from (and is partly based on) the following exi
 
 * [http://plugins.jquery.com/project/C4PCJsonRPC](http://plugins.jquery.com/project/C4PCJsonRPC) via [safchain](http://plugins.jquery.com/users/safchain)
 * [http://plugins.jquery.com/project/jsonRPC2](http://plugins.jquery.com/project/jsonRPC2) via [kusmierz](http://plugins.jquery.com/user/30124)
+
+
+[deps-badge]: https://david-dm.org/luqin/jquery-jsonrpc.svg
+[deps]: https://david-dm.org/luqin/jquery-jsonrpc
+
+[dev-deps-badge]: https://david-dm.org/luqin/jquery-jsonrpc/dev-status.svg
+[dev-deps]: https://david-dm.org/luqin/jquery-jsonrpc#info=devDependencies
+
+[peer-deps-badge]: https://david-dm.org/luqin/jquery-jsonrpc/peer-status.svg
+[peer-deps]: https://david-dm.org/luqin/jquery-jsonrpc#info=peerDependencies 
+
+[travis-ci-image]: https://travis-ci.org/luqin/jquery-jsonrpc.svg
+[travis-ci-url]: https://travis-ci.org/luqin/jquery-jsonrpc

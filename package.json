@@ -1,0 +1,33 @@
+{
+  "name": "jquery-json-rpc",
+  "version": "0.0.1",
+  "description": "A JSON RPC 2.0 client for jQuery",
+  "main": "jquery.jsonrpc.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jquery": ">=1.4"
+  },
+  "devDependencies": {
+    "express": "^3.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luqin/jquery-jsonrpc.git"
+  },
+  "keywords": [
+    "jquery",
+    "jsonrpc"
+  ],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/luqin/jquery-jsonrpc/issues"
+  },
+  "homepage": "https://github.com/luqin/jquery-jsonrpc"
+}
