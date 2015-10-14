@@ -1,1 +1,4 @@
 bower.json
+test
+server.js
+.gitignore
