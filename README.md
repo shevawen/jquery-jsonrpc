@@ -1,7 +1,6 @@
 # JSON RPC 2.0 jQuery Plugin
 
 [![NPM version][npm-badge]][npm]
-[![Build Status][travis-ci-image]][travis-ci-url]
 [![Dependency Status][deps-badge]][deps]
 [![devDependency Status][dev-deps-badge]][dev-deps]
 [![peerDependency Status][peer-deps-badge]][peer-deps]
@@ -114,6 +113,3 @@ Inspiration for this plugin came from (and is partly based on) the following exi
 
 [peer-deps-badge]: https://david-dm.org/luqin/jquery-jsonrpc/peer-status.svg
 [peer-deps]: https://david-dm.org/luqin/jquery-jsonrpc#info=peerDependencies 
-
-[travis-ci-image]: https://travis-ci.org/luqin/jquery-jsonrpc.svg
-[travis-ci-url]: https://travis-ci.org/luqin/jquery-jsonrpc
