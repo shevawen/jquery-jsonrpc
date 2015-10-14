@@ -1,5 +1,6 @@
 # JSON RPC 2.0 jQuery Plugin
 
+[![NPM version][npm-badge]][npm]
 [![Build Status][travis-ci-image]][travis-ci-url]
 [![Dependency Status][deps-badge]][deps]
 [![devDependency Status][dev-deps-badge]][dev-deps]
@@ -102,6 +103,8 @@ Inspiration for this plugin came from (and is partly based on) the following exi
 * [http://plugins.jquery.com/project/C4PCJsonRPC](http://plugins.jquery.com/project/C4PCJsonRPC) via [safchain](http://plugins.jquery.com/users/safchain)
 * [http://plugins.jquery.com/project/jsonRPC2](http://plugins.jquery.com/project/jsonRPC2) via [kusmierz](http://plugins.jquery.com/user/30124)
 
+[npm-badge]: http://badge.fury.io/js/jquery-json-rpc.svg
+[npm]: http://badge.fury.io/js/jquery-json-rpc
 
 [deps-badge]: https://david-dm.org/luqin/jquery-jsonrpc.svg
 [deps]: https://david-dm.org/luqin/jquery-jsonrpc
