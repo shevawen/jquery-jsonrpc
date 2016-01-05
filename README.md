@@ -103,7 +103,7 @@ Inspiration for this plugin came from (and is partly based on) the following exi
 * [http://plugins.jquery.com/project/jsonRPC2](http://plugins.jquery.com/project/jsonRPC2) via [kusmierz](http://plugins.jquery.com/user/30124)
 
 [npm-badge]: http://badge.fury.io/js/jquery-json-rpc.svg
-[npm]: http://badge.fury.io/js/jquery-json-rpc
+[npm]: https://www.npmjs.com/package/jquery-json-rpc
 
 [deps-badge]: https://david-dm.org/luqin/jquery-jsonrpc.svg
 [deps]: https://david-dm.org/luqin/jquery-jsonrpc
