@@ -178,12 +178,12 @@
       // Internal method used for generic ajax requests
       _doRequest: function(data, options) {
         var _that = this;
-        $.ajax({
-          type: 'POST',
+        var url = this._requestUrl((options.endPoint || options.url), options.cache);
+        $.ajax(url, {
+          method: 'POST',
           async: false !== options.async,
           dataType: 'json',
           contentType: 'application/json',
-          url: this._requestUrl((options.endPoint || options.url), options.cache),
           data: data,
           cache: options.cache,
           headers: options.headers,
